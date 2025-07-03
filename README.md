@@ -1,4 +1,4 @@
-# Project Title: Amazon Product Sales Dashboard
+# Amazon Product Sales Dashboard
 
 # Description:
 This Power BI dashboard presents a comprehensive analysis of Amazon product sales performance. The dashboard integrates multiple data sources to visualize key performance indicators (KPIs), including YTD and QTD sales, units sold, and customer reviews. It features dynamic and interactive visuals such as line charts, bar graphs, and category-wise breakdowns to provide actionable insights.
