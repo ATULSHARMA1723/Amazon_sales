@@ -56,3 +56,10 @@ Used slicers for filtering by category and quarter.
 # Storytelling & User Experience
 Highlighted key insights like best-selling categories and most-reviewed products.
 Ensured a clean, modern design with a dark theme and color-coded visuals to enhance readability and focus.
+
+# Outcome:
+Discovered that Men Shoes and Camera categories contribute over 65% of total YTD sales, highlighting key revenue drivers.
+Observed significant sales spikes in Q4, indicating seasonal shopping trends.
+Found that SanDisk products dominate in terms of customer reviews, signaling brand popularity.
+Empowered decision-makers to track performance metrics efficiently and act on sales trends with confidence.
+Demonstrated expertise in data modeling, DAX, and interactive visual storytelling using Power BI.
